@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "keyATM"]
+	path = keyATM
+	url = https://github.com/keyatm/keyatm
+	shallow = true
+	registered = true
